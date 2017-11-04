@@ -56,7 +56,7 @@
         <ows:Operation name="GetTile">
             <ows:DCP>
                 <ows:HTTP>
-                    <ows:Get xlink:href="href="http://t0.tianditu.com/img_w/wmts?">
+                    <ows:Get xlink:href="http://t0.tianditu.com/img_w/wmts?">
                         <ows:Constraint name="GetEncoding">
                             <ows:AllowedValues>
                                 <ows:Value>KVP</ows:Value>
